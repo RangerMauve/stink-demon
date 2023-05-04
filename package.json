@@ -1,0 +1,16 @@
+{
+  "name": "stink-demon",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "LLMA powered servitor for common programming tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RangerMauve",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "@llama-node/llama-cpp": "^0.0.34",
+    "llama-node": "^0.0.34"
+  }
+}

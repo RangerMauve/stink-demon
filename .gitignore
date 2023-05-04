@@ -128,3 +128,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Bring your own LLAMA compatible model
+# You get them off of hugging face pretty easily
+models/
